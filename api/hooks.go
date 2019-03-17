@@ -18,9 +18,9 @@ import (
 	"github.com/gobuffalo/uuid"
 	"github.com/sirupsen/logrus"
 
-	"github.com/netlify/gotrue/conf"
-	"github.com/netlify/gotrue/models"
-	"github.com/netlify/gotrue/storage"
+	"gotrue/conf"
+	"gotrue/models"
+	"gotrue/storage"
 )
 
 type HookEvent string

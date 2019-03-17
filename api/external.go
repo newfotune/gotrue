@@ -10,9 +10,9 @@ import (
 	"time"
 
 	jwt "github.com/dgrijalva/jwt-go"
-	"github.com/netlify/gotrue/api/provider"
-	"github.com/netlify/gotrue/models"
-	"github.com/netlify/gotrue/storage"
+	"gotrue/api/provider"
+	"gotrue/models"
+	"gotrue/storage"
 	"github.com/gobuffalo/uuid"
 	"github.com/sirupsen/logrus"
 )

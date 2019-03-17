@@ -7,9 +7,9 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/netlify/gotrue/conf"
-	"github.com/netlify/gotrue/models"
-	"github.com/netlify/gotrue/storage"
+	"gotrue/conf"
+	"gotrue/models"
+	"gotrue/storage"
 	"github.com/pkg/errors"
 	"github.com/gobuffalo/uuid"
 )

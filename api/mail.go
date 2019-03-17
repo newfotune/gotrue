@@ -4,10 +4,10 @@ import (
 	"context"
 	"time"
 
-	"github.com/netlify/gotrue/crypto"
-	"github.com/netlify/gotrue/mailer"
-	"github.com/netlify/gotrue/models"
-	"github.com/netlify/gotrue/storage"
+	"gotrue/crypto"
+	"gotrue/mailer"
+	"gotrue/models"
+	"gotrue/storage"
 	"github.com/pkg/errors"
 )
 

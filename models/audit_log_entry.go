@@ -5,8 +5,8 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/netlify/gotrue/storage"
-	"github.com/netlify/gotrue/storage/namespace"
+	"gotrue/storage"
+	"gotrue/storage/namespace"
 	"github.com/pkg/errors"
 	"github.com/gobuffalo/uuid"
 )

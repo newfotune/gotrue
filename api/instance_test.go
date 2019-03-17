@@ -9,8 +9,8 @@ import (
 
 	"github.com/gobuffalo/uuid"
 
-	"github.com/netlify/gotrue/conf"
-	"github.com/netlify/gotrue/models"
+	"gotrue/conf"
+	"gotrue/models"
 	"github.com/stretchr/testify/assert"
 	"github.com/stretchr/testify/require"
 	"github.com/stretchr/testify/suite"

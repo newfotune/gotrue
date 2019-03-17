@@ -1,13 +1,13 @@
 package models
 
 import (
-	"github.com/netlify/gotrue/storage/namespace"
+	"gotrue/storage/namespace"
 	"database/sql"
 	"time"
 
 	"github.com/gobuffalo/pop"
-	"github.com/netlify/gotrue/conf"
-	"github.com/netlify/gotrue/storage"
+	"gotrue/conf"
+	"gotrue/storage"
 	"github.com/pkg/errors"
 	"github.com/gobuffalo/uuid"
 )

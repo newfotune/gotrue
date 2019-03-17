@@ -4,7 +4,7 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/netlify/gotrue/models"
+	"gotrue/models"
 )
 
 var filterColumnMap = map[string][]string{

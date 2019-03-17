@@ -8,7 +8,7 @@ import (
 	"net/http"
 
 	jwt "github.com/dgrijalva/jwt-go"
-	"github.com/netlify/gotrue/models"
+	"gotrue/models"
 	"github.com/gobuffalo/uuid"
 )
 
